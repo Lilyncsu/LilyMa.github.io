@@ -17,7 +17,10 @@ I started as a statistician. Along the way, I gain the key skills and abilities 
 
 
 References:
+
 ODSCJournal. ODSC - Open Data Science. Data Scientists Versus Statisticians. May 9, 2019. https://medium.com/odscjournal/data-scientists-versus-statisticians-8ea146b7a47f.
+
 Andrew Zola. Machine Learning Engineer vs. Data Scientist. January 3, 2019. https://www.springboard.com/blog/ai-machine-learning/machine-learning-engineer-vs-data-scientist/.
+
 Srihari Sasikumar. Data Science vs. Data Analytics vs. Machine Learning: Expert Talk. May 10, 2021. https://www.simplilearn.com/data-science-vs-data-analytics-vs-machine-learning-article. 
 
