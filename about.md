@@ -9,7 +9,7 @@ Outside of work, I like hiking, traveling, gardening, and reading books.
 
 ### More Information
 
-I just joined the Mu Sigma Rho group at NC State. Mu Sigma Rho is [the national honorary society](https://www.stat.purdue.edu/msr/) for statistics. I'm taking three Statistics courses this summer: Data Science for Statisticians, SAS Programming 2, and Fundamentals of Linear Models and Regression. I think these classes and all other statistical courses are super helpful to further my career. You can see more about my work experience, technical skills, and academic activities through my [LinkedIn](https://www.linkedin.com/in/xingli-ma-712b20112/). 
+I just joined the [Mu Sigma Rho](https://www.stat.purdue.edu/msr/) group at NC State. I'm taking three Statistics courses this summer: Data Science for Statisticians, SAS Programming 2, and Fundamentals of Linear Models and Regression. I think these classes and all other statistical courses are super helpful to further my career. You can see more about my work experience, technical skills, and academic activities through my [LinkedIn](https://www.linkedin.com/in/xingli-ma-712b20112/). 
 
 ### Contact me
 
