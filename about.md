@@ -13,7 +13,7 @@ I just joined the "Mu Sigma Rho" group at NC State [Link](https://www.stat.purdu
 
 ### Contact me
 
-If you have any questions and want to communicate with me, please contact me by E-mail [email@domain.com](xma10@ncsu.edu) or Phone: 919-995-2186. Thanks!  
+If you have any questions and want to communicate with me, please contact me by E-mail [xma10@ncsu.edu] or Phone: 919-995-2186. Thanks!  
 
 ![](https://raw.githubusercontent.com/Xingli-Ma/Xingli-Ma.github.io/master/images/GoPack.png)  
 [GoPack](https://www.ncsu.edu/)  
