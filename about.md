@@ -12,6 +12,7 @@ Outside of work, I like hiking, traveling, gardening, and read books.
 I just joined the $ Mu Sigma Rho $ group at NC State. I'm taking the three Statistics courses this summer: SAS Programming 2, Data Science for Statisticians, and Fundamentals of Linear Models and Regression. I think these classes and all other classes in the graduate program in Statistics are super helpful to further my career in the future. You can see more about my work experience, technical skills, and academic activities through my [LinkedIn](https://www.linkedin.com/in/xingli-ma-712b20112/)  
   
   ```{r graphics, out.width = "800px", echo = FALSE}
+  require(knitr)
   knitr :: include_graphics ("https://raw.githubusercontent.com/Xingli-Ma/Xingli-Ma.github.io/master/images/1.jpg")
   ```
 ### Contact me
