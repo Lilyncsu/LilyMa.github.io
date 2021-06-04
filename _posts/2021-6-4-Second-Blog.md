@@ -1,7 +1,12 @@
 ---
 layout: post
-title: Programming Languages: R vs Others, which is your favorite?
+title: "Programming Languages: R vs Others, which is your favorite?"
 --- 
+
+---
+layout: post
+title: Being A Data Scientist
+---
 
 *1.	My thoughts on R vs other software that I've used* 
 
