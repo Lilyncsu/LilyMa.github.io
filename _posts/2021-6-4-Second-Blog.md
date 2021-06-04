@@ -2,7 +2,7 @@
 layout: post
 title: Programming Languages: R vs Others, which is your favorite?
 ---
-**Programming Languages: R vs Others, which is your favorite?**  
+## Programming Languages: R vs Others, which is your favorite?  
 
 *1.	My thoughts on R vs other software that I've used* 
 
@@ -28,7 +28,7 @@ SAS can produce very nice reports, which I like the most. I also like the macro 
 
 Overall, I think R is easy to learn. But the code can change over time; the version updated very fast; a lot of functionalities like “black boxes”, you need to have a sound statistics knowledge to understand the underling structures and rationales behind the scenes. Also, the debugging tools are not as efficient as that SAS (check the log) and Python (debugging tools) provided.  
 
-Finally, like Forrest Gump said: **life is like a box of chocolates**, each programming language is also like a box of chocolates, you get to choose your favorite one. Along the way, you may want to try different flavors.
+Finally, like *Forrest Gump* said: **life is like a box of chocolates**, each programming language is also like a box of chocolates, you get to choose your favorite one. Along the way, you may want to try different flavors.
 
 ![](https://raw.githubusercontent.com/Xingli-Ma/Xingli-Ma.github.io/master/images/Life_Chocolates.jpg)
 
