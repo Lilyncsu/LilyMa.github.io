@@ -25,4 +25,4 @@ Here is the link to the [Project 1 NHL Vignette github pages repo](https://xingl
 
 Thanks for reading!
 
-[National Hockey League]()
+![National Hockey League](https://raw.githubusercontent.com/Xingli-Ma/Xingli-Ma.github.io/master/images/NHL_Shield.png.jpg)
