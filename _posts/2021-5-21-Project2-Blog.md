@@ -9,7 +9,7 @@ The purpose of this project is to create **predictive models** and **automate Ma
 
 **2. Interesting finding**    
 
-It is a lot of fun to working on a collaborative project on GitHub. I appreciate that everyone has different solutions to the same problem. Automating Markdown reports can make our code more efficient and can save a lot of time. We found that the best model for predicting the number of rental bikes is different on each day of the week.    
+It is a lot of fun to work on a collaborative project on GitHub. I appreciate that everyone has different solutions to the same problem. Automating Markdown reports can make our code more efficient and can save a lot of time. We found that the best model for predicting the number of rental bikes is different on each day of the week.    
 
 **3. Process reflection**        
 
