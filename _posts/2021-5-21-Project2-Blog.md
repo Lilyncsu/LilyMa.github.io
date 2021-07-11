@@ -23,7 +23,7 @@ I think the data exploratory analysis is important and crucial for successful an
 
 – What are your big take-aways from the project?  
 
-Understanding your data and variable type is crucial for selecting models. 
+Understanding your data and variable type is crucial for selecting appropriate models. 
 
 Thanks for reading!   
 
