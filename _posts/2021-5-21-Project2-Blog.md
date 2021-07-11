@@ -15,7 +15,7 @@ It is a lot of fun to work on a collaborative project on GitHub. I appreciate th
 
 – What would you do differently?        
 
-This is a collaborative project between me and my classmate, so it is important to find an efficient way to communicate and keep everyone on the same page. We used Gmail hangout instant messages and zoom meetings to communicate information. It works very well for us. However, we did encounter some conflicts when we both do git push on the same .rmd file. I think next time, We will stagger the push time to reduce conflicts.
+This is a collaborative project between me and my classmate, so it is important to find an efficient way to communicate and keep everyone on the same page. We used Gmail hangout instant messages and zoom meetings to communicate information. It works very well for us. However, we did encounter some conflicts when we both do git push on the same .rmd file. Next time, we will stagger the push time to reduce conflicts.
 
 – What was the most difficult part for you?    
 
@@ -23,9 +23,8 @@ I think the data exploratory analysis is important and crucial for successful an
 
 – What are your big take-aways from the project?  
 
-Understanding your data and variable type is crucial for selecting appropriate models. 
+Understanding your data and variable type is crucial for selecting appropriate models.     
 
-Thanks for reading!   
 
 
 ![Bike-Sharing Clicks Into Higher Gear](https://raw.githubusercontent.com/Xingli-Ma/Xingli-Ma.github.io/master/images/bike-sharing.jpeg)
