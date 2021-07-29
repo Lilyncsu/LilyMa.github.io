@@ -23,4 +23,4 @@ I have learned that R can be very interactive and collaborative by using R shiny
 In the future, I probably will try to use **R** to solve most of the problems in data science, except in some situations, I will still use Python, SAS for special needs and to meet industry standards. I want to archive and share my previous, current, and future data science projects in GitHub repositories. I will continue to blog to share my growth process and experience becoming a Data Scientist.    
 
 
-![](https://raw.githubusercontent.com/Xingli-Ma/Xingli-Ma.github.io/master/images/data-science.jpg)
+![](https://raw.githubusercontent.com/Xingli-Ma/Xingli-Ma.github.io/master/images/dataScience.jpg)
