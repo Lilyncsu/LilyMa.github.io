@@ -5,7 +5,7 @@ title: "Programming Languages: R vs Others, which is your favorite?"
 
 *1.	My thoughts on R vs other software that I've used* 
 
-First of all, R is an open-source software. It is free for everyone. As long as you have a computer and an internet connection, you can download the R software from [its website](https://www.r-project.org/ and install it on your computer and run your programs).    
+First of all, R is an open-source software. It is free for everyone. As long as you have a computer and an internet connection, you can download the R software from [its website](https://www.r-project.org/) and install it on your computer and run your programs.    
 
 It also has an Integrated Development Environment, which is [RStudio](https://www.rstudio.com/). It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.    
 
